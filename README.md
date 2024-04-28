@@ -34,3 +34,37 @@ Artemis Financial specializes in handling sensitive financial data, requiring st
 ### Conclusion
 
 This repository not only serves as a testament to my technical ability to address and mitigate software vulnerabilities but also highlights my analytical approach in securing software applications in compliance with industry standards. It reflects a significant step in my journey as a cybersecurity professional, equipped to tackle complex security challenges in any software environment.
+
+
+
+**CS 305 Project Two: Practices for Secure Software Report**
+
+This repository holds the Practices for Secure Software Report for Artemis Financial, highlighting the advanced security measures implemented to enhance the integrity and security of their financial software systems. This project demonstrates my capability to refactor existing code to meet high standards of security, compliance, and functionality.
+
+### Overview of Artemis Financial
+
+Artemis Financial relies on robust security measures due to the sensitive nature of the financial data it processes. This project involved upgrading their software systems to include advanced cryptographic techniques, ensuring compliance with industry standards and enhancing security against modern threats.
+
+### Contents of the Repository
+
+- **Practices for Secure Software Report**: A comprehensive document that outlines the steps taken to enhance the security of the software, including the integration of AES encryption and SHA-256 hashing.
+- **Supporting Materials**: Includes images, diagrams, and additional documentation that support the methodologies and results discussed in the report.
+
+### Reflections and Key Insights
+
+1. **Client Summary**: Artemis Financial required a thorough upgrade of their software security protocols to protect against data breaches and ensure compliance with global security standards.
+2. **Achievements in Security**: Successfully implemented AES encryption and SHA-256 hashing to secure data transmissions and storage. Introduced rigorous input validation and error handling to safeguard against common vulnerabilities such as SQL injections and cross-site scripting (XSS).
+3. **Challenges and Solutions**: The integration of new security features and refactoring existing code was challenging due to the complexity of the existing systems. These challenges were overcome by employing systematic testing protocols and using static and dynamic analysis tools to ensure comprehensive coverage and functionality.
+4. **Enhancements in Security Posture**: Detailed the deployment of cryptographic solutions, including certificate generation and cipher deployment, to secure communications and data storage comprehensively.
+5. **Validation of Security Measures**: Conducted extensive functional and secondary testing to verify the effectiveness of the new security measures. Utilized tools like OWASP Dependency-Check to ensure that no new vulnerabilities were introduced during the refactoring process.
+6. **Tools and Best Practices Utilized**: Emphasized adherence to industry-standard best practices in secure software development, including the use of up-to-date and secure coding practices, rigorous testing regimes, and continuous security assessments.
+7. **Professional Showcase**: This report and the associated documentation serve as a robust demonstration of my skills in implementing and managing software security in a high-stakes environment, suitable for presentation to future employers to showcase my technical and analytical capabilities.
+
+### Usage Instructions
+
+1. **Explore the Report**: Review the detailed Practices for Secure Software Report to understand the comprehensive security enhancements implemented.
+2. **Review Supporting Documents**: Examine the additional materials provided for deeper insights into the security measures and their implementations.
+
+### Conclusion
+
+This project not only enhanced the security of Artemis Financial’s software but also reinforced the importance of continuous security improvement and adherence to industry best practices. It showcases my commitment to developing secure software solutions that meet and exceed the demands of modern financial operations.
